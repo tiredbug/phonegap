@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	var url="http://localhost/phonegap/login/auth.php?callback=?";
+	var url="https://atila.web.id/phonegap/auth.php?callback=?";
     
     //Login Function
     $("#login").click(function(){
